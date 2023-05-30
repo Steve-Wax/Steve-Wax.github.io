@@ -516,10 +516,10 @@ header .navbar.animate {
     opacity: 0.9;
 }
 
-#achievements .card:hover {
+/*#achievements .card:hover {
     border: 2px solid var(--text-color);
     transition: .3s;
-}
+}*/
 #achievements .card:focus {
     border: 2px solid var(--text-color);
     transition: .3s;
